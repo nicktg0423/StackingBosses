@@ -1,0 +1,16 @@
+{
+    "id": "StackingBosses",
+    "name": "Stacking Bosses",
+    "author": [
+        "NickTG"
+    ],
+    "description": "Every boss blind you beat stays for the rest of the run, on every blind after it, stacking with every other boss you've beaten. Works on any deck.",
+    "prefix": "ntgsb",
+    "main_file": "StackingBosses.lua",
+    "priority": 0,
+    "badge_colour": "B52D2D",
+    "version": "1.0.0",
+    "dependencies": [
+        "Steamodded (>=1.0.0~BETA-1620a)"
+    ]
+}
